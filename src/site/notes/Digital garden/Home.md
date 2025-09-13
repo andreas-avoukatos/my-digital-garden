@@ -4,4 +4,6 @@
 
 Greetings! 😊 
 
-My name is Andreas Avoukatos, and I'm a graduate student at the [Algorithms, Logic and discrete MA](alma.di.uoa.gr) programme in Athens, Greece. This pace is currently under construction. 
+My name is Andreas Avoukatos, and I'm a graduate student at the [Algorithms, Logic, and Discrete Mathematics](alma.di.uoa.gr) programme in Athens, Greece. 
+
+This page is currently under construction; (see you soon!)
