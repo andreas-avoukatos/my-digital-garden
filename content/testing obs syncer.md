@@ -1,5 +1,5 @@
 ---
 title: Just testing - obsidian syncer
-draft: false
+draft: true
 ---
 Now testing the obsidian syncer
