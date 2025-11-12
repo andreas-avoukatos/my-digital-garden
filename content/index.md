@@ -1,4 +1,4 @@
 ---
-title: Hello world!
+title: Welcome to my digital garden!
 ---
-This is a test
+This is a test, but thanks for visiting :)
