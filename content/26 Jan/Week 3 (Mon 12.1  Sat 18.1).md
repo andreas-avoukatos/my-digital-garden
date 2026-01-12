@@ -5,6 +5,7 @@ draft: true
 Here's what I learned on Monday :)
 
 Here's what I learned on Tuesday :)
+- call with dr Kaposi
 
 Here's what I learned on Wednesday :)
 
