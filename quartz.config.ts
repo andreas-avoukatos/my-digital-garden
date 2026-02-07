@@ -1,24 +1,16 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "My Digital Garden",
     pageTitleSuffix: "",
-    contentDir: "/Users/andreasavoukatos/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian Vault/Garden",
+    contentDir: "/Users/andreasavoukatos/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Obsidian\ Vault/Garden",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "andreas-avoukatos.github.io/my-digital-garden",
+    Ignorepatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
