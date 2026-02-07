@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "My Digital Garden",
+    pageTitle: "Λvocado's Garden",
     pageTitleSuffix: "",
     contentDir: "/Users/andreasavoukatos/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Obsidian\ Vault/Garden",
     enableSPA: true,
     enablePopovers: true,
     locale: "en-US",
     baseUrl: "andreas-avoukatos.github.io/my-digital-garden",
-    Ignorepatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
