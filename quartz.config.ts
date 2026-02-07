@@ -8,6 +8,9 @@ const config: QuartzConfig = {
     contentDir: "/Users/andreasavoukatos/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Obsidian\ Vault/Garden",
     enableSPA: true,
     enablePopovers: true,
+    analytics: {
+      provider: 'goatcounter',
+      websiteId: 'avocado'},
     locale: "en-US",
     baseUrl: "andreas-avoukatos.github.io/my-digital-garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
