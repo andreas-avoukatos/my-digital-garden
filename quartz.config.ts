@@ -8,15 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Λvocado's Garden",
+    pageTitle: "My Digital Garden",
     pageTitleSuffix: "",
+    contentDir: "/Users/andreasavoukatos/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian Vault/Garden"
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "andreas-avoukatos.github.io/my-digital-garden",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -72,7 +73,6 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
-      Plugin.ContentIndex(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
