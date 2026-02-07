@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "My Digital Garden",
     pageTitleSuffix: "",
-    contentDir: "/Users/andreasavoukatos/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian Vault/Garden"
+    contentDir: "/Users/andreasavoukatos/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian Vault/Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
