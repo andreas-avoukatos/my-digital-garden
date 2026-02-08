@@ -1,11 +1,11 @@
 ---
 title: 🏡☀️
 ---
-Greetings! My name is Andreas Avoukatos and I am a master's student of the [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr) programme at University of Athens, Greece. 
+Greetings! My name is Andreas Avoukatos and I am a master's student of the [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr) programme, at the National and Kapodistrian University of Athens, Greece.
 
-During my undergraduate studies I was fascinated by proof assistants (as a vague concept, or a fantasy if you wish), and I am glad I came across a course about Homotopy Type Theory in my master's. Currently I am studying relevant material in order to come up with a suitable master's thesis topic. Suggestions are more than welcome! :)
+My main interest is the mathematics behind proof assistants, as my main gripe during my undergraduate studies was the fact that computers weren't as useful as they were to the applied mathematician, (at least in my department). I am glad I came across Homotopy Type Theory in my graduate studies, and the fact that I was able to attend to a couple of workshops in the broader field.
 
-In the meantime I plan to use this corner of the internet as a collection of all the cool things I learn and come up with - something like a study diary if you wish - and for completeness [wrt](https://idioms.thefreedictionary.com/With+Regard+To) my introduction, you can find my CV [here](http://users.uoa.gr/~aavoukatos/Avoukatos_CV_2025_Dec.pdf) (Dec 25).
+In the meantime I plan to use this corner of the internet as a collection of all the cool things I learn and come up with - something like a study diary if you wish - and here's the [RSS feed](https://andreas-avoukatos.github.io/my-digital-garden/index.xml).  For completeness with regards to my introduction, you can find my CV [here](http://users.uoa.gr/~aavoukatos/Avoukatos_CV_2025_Dec.pdf) (Dec 25).
 
 ---
 
