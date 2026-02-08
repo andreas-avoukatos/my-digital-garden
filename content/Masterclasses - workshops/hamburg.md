@@ -11,7 +11,7 @@ The content of the class happened to overlap with my Agda experience so far, but
 
 I think that the installation of Agda was a unifying experience (as most attendees had troubles in the beginning); on the upsdie, I believe that some people will continue their journey after this first exposure!
 
-Shortly after Dr. Sarikaya (the organiser of the event, to which I'm thankful) started a podcast with Prof Altenkirch called aboutlogic, which I found to be pretty pleasant to listen to; you can find it [here]().
+Shortly after [Dr. Sarikaya](http://www.denizsarikaya.de) (the organiser of the event, to which I'm thankful) started a podcast with Prof Altenkirch called aboutlogic, which I found to be pretty pleasant to listen to; you can find it [here](https://www.youtube.com/@aboutlogic).
 
 ---
 A group photo (found in the website above).
