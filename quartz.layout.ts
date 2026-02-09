@@ -14,11 +14,22 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: ({ fileData }) => fileData.slug !== "index"
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: ({ fileData }) => {
+      // 1. Hide on the main home page (slug is "index")
+      // 2. Hide on any page explicitly titled "Index" or "index"
+      const isIndex = fileData.slug === "index" || 
+                    fileData.frontmatter?.title === "Index" || 
+                    fileData.frontmatter?.title === "index"
+      // Return true to SHOW, false to HIDE
+      return !isIndex
+      }
+    }),
+    Component.TagList()
   ],
   left: [
     Component.PageTitle(),
@@ -36,7 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    //Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -44,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
