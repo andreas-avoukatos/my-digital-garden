@@ -11,7 +11,9 @@ You can find my CV [[Avoukatos_CV_2025_Dec.pdf|here]] (updated Dec 25), and my e
 
 ---
 
-I plan to use this corner of the internet as a study diary, as I'm going through my thesis. On the left you can find my weekly notes, and a few words about some events I've had the opportunity to attend. Here's the [RSS feed](https://andreas-avoukatos.github.io/my-digital-garden/index.xml) for the site.
+I plan to use this corner of the internet as a study diary, as I'm going through my thesis. On the left you can find my [[Weeknotes/|weekly notes]], and a few words about some [[Masterclasses - workshops/|events]] I've had the opportunity to attend. This website is (and will be) a work-in-progress.
+
+In case you're interested in RSS feeds, here's mine for this site: [RSS feed](https://andreas-avoukatos.github.io/my-digital-garden/index.xml)
 
 ---
 A nice quote I found randomly on the internet,
