@@ -29,7 +29,11 @@ export const defaultContentPageLayout: PageLayout = {
       return !isIndex
       }
     }),
-    Component.TagList()
+    Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.SiteUpdate(),
+      condition: (f) => f.slug === "index", 
+    })
   ],
   left: [
     Component.PageTitle(),
