@@ -1,5 +1,5 @@
 ---
-title: :emoji_1F3E1::sunny:
+title: 🏡☀️
 ---
 ## Greetings! 
 
