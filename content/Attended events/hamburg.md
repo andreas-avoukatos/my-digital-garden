@@ -1,5 +1,5 @@
 ---
-title: TT / proof systems, Dec 25
+title: Type Theory / proof systems, Dec 25
 ---
 ## Introduction to Type Theory (and proof systems) 
 

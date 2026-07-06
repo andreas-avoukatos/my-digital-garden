@@ -1,3 +1,11 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Add a bullet point to Explorer entries */
+.explorer ul li > a::before,
+.explorer ul li > button::before {
+  content: "• ";
+  margin-right: 6px;       /* Adds a little breathing room after the bullet */
+  color: var(--tertiary);  /* Uses your theme's accent color. Change to 'inherit' for standard text color */
+  font-weight: bold;       /* Optional: makes the bullet stand out more */
+}
