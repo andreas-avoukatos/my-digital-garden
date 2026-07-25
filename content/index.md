@@ -17,10 +17,10 @@ My main interest lies in the mathematics behind proof assistants. During my unde
 ## What's this?
 This corner of the internet serves as my digital garden and a study diary, as I'm going through my master's thesis. On the left sidebar, you can find my [[Weeknotes/|weekly notes]] alongside a few words about the [[Attended events/|events]] I've had the opportunity to attend. 
 
-Unlike a traditional blog, which demands complete, chronological posts, this website is a living work-in-progress. In continuation with the garden theme, notes here evolve through distinct stages:
+Unlike a traditional blog, which demands complete, chronological posts, this website is a living work-in-progress, and is currently in its early steps. In continuation with the garden theme, notes here evolve through distinct stages:
 - 🌱 [Seedlings](/tags/seedling): barely started notes where more thought is needed.
-- 🌿Saplings: topics with a solid amount of content that still need refinement. 
-- 🌲Trees: matured pieces of thought that shouldn't change much beyond editorial touches.
+- 🌿 Saplings: topics with a solid amount of content that still need refinement. 
+- 🌲 Trees: matured pieces of thought that shouldn't change much beyond editorial touches.
 
 ---
 >[!quote] "When you want to build a ship, do not begin by gathering wood, cutting planks, and distributing labor; instead, begin by awakening in people their yearning for the vast and endless sea." [*Antoine de Saint-Exupéry*](https://quoteinvestigator.com/2015/08/25/sea/)
