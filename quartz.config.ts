@@ -12,7 +12,7 @@ const config: QuartzConfig = {
       provider: 'goatcounter',
       websiteId: 'avocado'},
     locale: "en-US",
-    baseUrl: "andreas-avoukatos.github.io/my-digital-garden",
+    baseUrl: "avoukatos.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
