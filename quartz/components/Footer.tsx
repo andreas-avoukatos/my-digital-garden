@@ -25,23 +25,7 @@ export default ((opts?: Options) => {
         </li>
       ))}
     </ul>
-    
-    {/* GoatCounter View Stats */}
-    <div id="gc-stats"></div>
-    <script dangerouslySetInnerHTML={{
-      __html: `
-        var t = setInterval(function() {
-          if (window.goatcounter && window.goatcounter.visit_count) {
-            clearInterval(t)
-            window.goatcounter.visit_count({
-              append: '#gc-stats',
-              no_branding: true
-            }) 
-          }
-        }, 100)
-      `
-    }}></script>
-  </footer>
+</footer>
   )
   }
 
