@@ -2,6 +2,7 @@
 title: Research, from the pov of a graduate
 tags:
   - seedling
+draft: true
 ---
 I do not have a clear way of thinking what research is supposed to be, (as I do not know what research is), and I found myself to be paralysed from the absence of some form of a defined procedure (that at its end it will grant me a master's thesis / degree); thus in this note I'll log (and in a sense reshape) my thoughts with the goal of figuring out how research is (supposed to be) done.
 
